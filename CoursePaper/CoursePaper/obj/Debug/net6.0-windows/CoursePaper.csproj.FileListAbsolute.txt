@@ -1,0 +1,17 @@
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\bin\Debug\net6.0-windows\CoursePaper.exe
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\bin\Debug\net6.0-windows\CoursePaper.deps.json
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\bin\Debug\net6.0-windows\CoursePaper.runtimeconfig.json
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\bin\Debug\net6.0-windows\CoursePaper.dll
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\bin\Debug\net6.0-windows\CoursePaper.pdb
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.Form1.resources
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.dll
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\refint\CoursePaper.dll
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.pdb
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\CoursePaper.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\CoursePaper\CoursePaper\obj\Debug\net6.0-windows\ref\CoursePaper.dll
